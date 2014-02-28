@@ -1,0 +1,23 @@
+Version 0.1.0
+	-Creation.
+
+	in 
+	+ Excel export
+	+ update SPCProjectBudget and function loadTasks to be returned only tasks id
+	- Add Month Filter
+	
+	Перевод файла spfinances.class.php
+       +function updateValue($var, $val, $tax) {investment_id ? and profit_id ?
+       
+       
+       tasks_dosql.addedit.php
+       tasks_tab.addedit.detailed_budget
+       tasks_tab.view.detailed_budget
+       spbugetcategory.class.php
+       do_budgetcategory_aed.php
+       viewcategory.php
+       
+       projects_tab.detailed_budget.php
+       export_excel.php
+       
+       
