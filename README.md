@@ -6,13 +6,20 @@ SPFINANCES MODULE For dotproject
 
 Features	
  *Tasks Budget Actual
+ 
  *Tasks Budget Planned
+ 
  	if task_target_budget < 0 that planned Investment
+ 	
  	if task_target_budget > 0 that planned Profit
+ 	
  *Budget Editable categorys
  
+ 
  *Project financial view for period
+ 
  *Export to Exel
+ 
 
 INSTALLATION
 	
